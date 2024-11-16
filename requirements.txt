@@ -1,4 +1,4 @@
-tkinter  # Standard library, no need to include unless you use a custom Python distribution
-matplotlib==<latest_version>
-mysql-connector-python==<latest_version>
-Pillow==<latest_version>
+tkinter 
+matplotlib
+mysql-connector-python
+Pillow
